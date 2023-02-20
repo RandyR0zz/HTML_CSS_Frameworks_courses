@@ -1,7 +1,5 @@
 #### Contents:
 
----
-
 <ul type="square">
   <li><a href="https://github.com/RandyR0zz/HTML_CSS_Frameworks_courses/tree/main/IT_Academy_CSS_Tasks">CSS tasks</a></li>
   <li><a href="https://github.com/RandyR0zz/HTML_CSS_Frameworks_courses/tree/main/IT_Academy_HTML_Tasks">HTML tasks</a></li>
